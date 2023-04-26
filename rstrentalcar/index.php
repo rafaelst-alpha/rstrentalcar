@@ -9,7 +9,7 @@
 	<title>※ RST Rentalcar® ※</title>
 
 	<!-- ARQUIVO DE ESTILOS DO PORTAL -->
-	<link rel="stylesheet" type="text/css" href="http://localhost/portal/css/estilo.css">
+	<link rel="stylesheet" type="text/css" href="./css/estilo.css">
 	
 </head>
 
